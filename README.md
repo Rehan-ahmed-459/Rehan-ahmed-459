@@ -8,7 +8,7 @@ Iam Rehan Ahmed
 
 - :zap: In my free time, I solve problems on HackerRank and Solve CTF's while(bored): play(kingofthehill);
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](#)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](#)
 ---
 
 ### :fire: My Stats :
